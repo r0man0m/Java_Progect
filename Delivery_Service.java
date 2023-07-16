@@ -18,7 +18,7 @@ public class Delivery_Service {
             System.out.println("1) Add an order to the queue.");
             System.out.println("2) Delete the order from the queue.");
             System.out.println("3) Count orders.");
-            System.out.println("4) Display.");
+            System.out.println("4) Display on monitor manager.");
             System.out.println("0) Exit the program.");
             System.out.println("?");
             ch = sc.nextInt();
